@@ -1,7 +1,7 @@
 Hi, I'm Leonardo Campos! 
 
 - 🔭 I’m currently working on front end
-- 🌱 I’m currently learning back end technologies
+- 🌱 I’m currently learning Development Web Full Stack on <a href="https://www.betrybe.com/" target="_blank">Trybe</a> technologist
 - 👯 I’m looking to collaborate on React projects
 - 🤔 I’m looking for help with job search
 - 💬 Ask me about art, movies and code
@@ -19,6 +19,7 @@ Hi, I'm Leonardo Campos!
   <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="30" height="30"/>&nbsp;&nbsp;
 </div>
 
 ##
