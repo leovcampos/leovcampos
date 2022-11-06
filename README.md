@@ -5,7 +5,6 @@ Hi, I'm Leonardo Campos!
 - 👯 I’m looking to collaborate on React projects
 - 🤔 I’m looking for help with job search
 - 💬 Ask me about art, movies and code
-- ⚡ Fun fact: I'm artist 
 
 <div align="center">
   <a href="https://github.com/leovcampos">
