@@ -1,6 +1,6 @@
 Hi, I'm Leonardo Campos! 
 
-- 🔭 I’m currently working on front end
+- 🔭 I’m currently working on front end and back end
 - 🌱 I’m currently learning Development Web Full Stack on <a href="https://www.betrybe.com/" target="_blank">Trybe</a> technologist
 - 👯 I’m looking to collaborate on React projects
 - 🤔 I’m looking for help with job search
